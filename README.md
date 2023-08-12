@@ -1,6 +1,6 @@
 # Test Training
 
-This is a test training for the trainR package.
+This is a test training for the trainR package. It is a simple training that shows how to use the trainR package.
 
 ## Running the training
 
