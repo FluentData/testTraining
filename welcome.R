@@ -31,7 +31,3 @@ welcome <- function() {
     )
 
 }
-
-
-
-
