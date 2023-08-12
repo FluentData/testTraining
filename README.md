@@ -32,3 +32,7 @@ You can make your own trainings that rely on the trainR package.
 
 If you want to contribute to this training, you can fork it and make a pull request.
 
+## License
+
+This training is licensed under the MIT license.
+
