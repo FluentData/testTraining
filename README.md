@@ -27,3 +27,8 @@ You can make your own trainings that rely on the trainR package.
     trainR::create('<your github username>/<your training name>')
 
 ```
+
+## Contributing
+
+If you want to contribute to this training, you can fork it and make a pull request.
+
