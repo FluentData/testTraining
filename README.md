@@ -20,3 +20,10 @@ trainR::load('FluentData/testTraining')
 
 ```
 
+You can make your own trainings that rely on the trainR package. 
+
+```{r}
+
+    trainR::create('<your github username>/<your training name>')
+
+```
